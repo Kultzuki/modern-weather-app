@@ -27,12 +27,6 @@ A modern, responsive weather application built with React, TypeScript, and Tailw
 - **Error Handling**: Graceful handling of API errors with user-friendly messages
 - **Loading States**: Visual feedback during API calls
 
-## 🚀 Demo
-
-![Weather App Demo](https://via.placeholder.com/800x500/4F46E5/FFFFFF?text=Weather+App+Demo)
-
-*Add screenshots or GIF of your app in action*
-
 ## 🛠️ Technology Stack
 
 - **Frontend Framework**: React 18+ with hooks and functional components
@@ -177,11 +171,10 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🔗 Links
 
-- **Live Demo**: [Your deployed app URL]
-- **Portfolio**: [Your portfolio website]
-- **LinkedIn**: [Your LinkedIn profile]
-- **GitHub**: [Your GitHub profile]
+- **Portfolio**: [Soon]
+- **LinkedIn**: [Prashant Krishan Bharti](https://www.linkedin.com/in/prashant-krishan-bharti)
+- **GitHub**: [Kultzuki](https://github.com/Kultzuki)
 
 ---
 
-**Built with ❤️ by [Your Name]** - *Showcasing modern React development with TypeScript and Tailwind CSS*
+**Built with ❤️ by [Kultzuki]** - *Showcasing modern React development with TypeScript and Tailwind CSS*
