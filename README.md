@@ -165,10 +165,6 @@ While this is a portfolio project, suggestions and feedback are welcome! Feel fr
 2. Create a feature branch
 3. Submit a pull request
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 🔗 Links
 
 - **Portfolio**: [Soon]
